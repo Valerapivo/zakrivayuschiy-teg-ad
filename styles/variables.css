@@ -1,1 +1,9 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+:root {
+        --section-text-size: 18px;
+    --general-text-size: 14px;
+    --button-text-size: 14px;
+    --variabl-font: 'Inter-Variabl';
+    --standart-font: 'Press Start 2P';
+    --sparks: #FF0000;
+}
